@@ -1,0 +1,1 @@
+Al enviar reportes mediante la ruta POST /reportes, el sistema almacena la información en un array llamado reportes. Posteriormente, al consultar la ruta GET /reportes, se muestran todos los reportes registrados mientras el servidor permanezca encendido. Esto permite llevar un registro organizado de las incidencias reportadas por la comunidad.
